@@ -47,5 +47,3 @@ To run the app locally and experience the new features, follow these steps:
 3. Install dependencies: `npm install`
 
 4. Start the development server: `npm start`
-
-Explore, order, and enjoy the enhanced Food Order App with its new Firebase integration and order management capabilities. Happy coding!
